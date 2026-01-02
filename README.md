@@ -1,14 +1,10 @@
-<h3 align="center">Hey 👋What's Up?</h3>
-
-###
-
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
 </div>
 
 ###
 
-<h4 align="left">💫 About Me:</h4>
+<h3 align="left">💫 About Me:</h3>
 
 ###
 
@@ -17,12 +13,12 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Anthonyli24&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Anthonyli24&locale=en&mode=daily&theme=tokyonight&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###
 
-<h4 align="left">💻 Tech Stack:</h4>
+<h3 align="left">💻 Tech Stack:</h3>
 
 ###
 
@@ -48,8 +44,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="55" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="55" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=idea" height="55" alt="intellijidea logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="55" alt="javascript logo"  />
   <img width="12" />
