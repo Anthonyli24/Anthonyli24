@@ -3,7 +3,6 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-
 ### 🌐 Frontend  
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=fff) 
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) 
@@ -43,30 +42,18 @@
 
 ### 🎨 Design Tools  
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) 
-![Dribbble](https://img.shields.io/badge/-Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) 
-![Canva](https://img.shields.io/badge/-Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
 
 ### 💻 Operating Systems & Software  
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![Archcraft](https://img.shields.io/badge/-Archcraft-1793D1?style=for-the-badge&logo=archlinux&logoColor=white) 
 ![LibreOffice](https://img.shields.io/badge/-LibreOffice-111?style=for-the-badge&logo=LibreOffice) 
 ![GNU Bash](https://img.shields.io/badge/-GNU%20Bash-121?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
-### 🌍 Browsers  
-![Firefox](https://img.shields.io/badge/-Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white) 
-![Google Chrome](https://img.shields.io/badge/-Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)
-
-### 🤖 AI Tools  
-![ChatGPT](https://img.shields.io/badge/-ChatGPT-51786e?style=for-the-badge&logo=openai&logoColor=white) 
-![Claude](https://img.shields.io/badge/-Claude-BBEEF1?style=for-the-badge&logo=anthropic&logoColor=black)
-
 </div>
 
-<div align="center">
 
 ## 💬 Get in touch<p align="center">
+<div align="center">
 [![Gmail](https://img.shields.io/badge/-gmail-ec493c?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anthonyliperera@gmail.com?Subject=Contact%20from%20Github)&nbsp;
-[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyliperera)
-  
+[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyliperera) 
 </div>
 
