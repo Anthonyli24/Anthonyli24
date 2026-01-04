@@ -6,14 +6,32 @@
 - 🌱 I’m currently exploring cybersecurity and the SecOps world 
 <br>
 
-<div align="center"> 
+
+## 📊 Github Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthonyli24/github-stats/master/generated/overview.svg">
+  <img src="https://raw.githubusercontent.com/Anthonyli24/github-stats/master/generated/overview.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthonyli24/github-stats/master/generated/languages.svg">
+  <img src="https://raw.githubusercontent.com/Anthonyli24/github-stats/master/generated/languages.svg">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Anthonyli24&border_radius=7&card_width=235&card_height=214&background=0D1117&sideNums=4c8edf&sideLabels=ddd&border=777&dates=999&hide_total_contributions=true&hide_current_streak=true">
+  <img src="https://streak-stats.demolab.com/?user=Anthonyli24">
+</picture>
+
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthonyli24/Anthonyli24/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anthonyli24/Anthonyli24/output/pacman-contribution-graph.svg">
     <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Anthonyli24/Anthonyli24/output/pacman-contribution-graph.svg">
 </picture>
-</div>
 
+</div>
 <br>
 
 ## 🛠️ Tech Stack
