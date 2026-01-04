@@ -1,11 +1,9 @@
 ![Header](./github-header-banner.png)
 
 ## **More about me**
-- 🎓 Software Engineering at Universidad Nacional (Costa Rica).
-- 💻 Passionate about the world of technology, constantly evolving and committed to continuous learning, with the ambition and dedication to enter the DevSecOps field.
-- 🌐 Open to work
-
-<br>
+- 🎓 I’m in my final year of Software Engineering at Universidad Nacional of Costa Rica.
+- 💻Passionate about full-stack development, cloud stuff, and networking. I like solving problems with different approaches.
+- 🌱 I’m currently exploring cybersecurity and the SecOps world 
 
 <div align="center">
     <a href="https://github.com/Anthonyli24">
@@ -13,7 +11,6 @@
     </a>
 </div>
 <br>
-
 
 ## 🛠️ Tech Stack
 
