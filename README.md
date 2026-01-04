@@ -1,9 +1,6 @@
 ![Header](./github-header-banner.png)
 
 ## 🛠️ Tech Stack
-
-<br>
-
 <p align="center">
 
 - **Programming Languages**:
