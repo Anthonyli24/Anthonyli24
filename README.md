@@ -4,6 +4,7 @@
 - 🎓 I’m in my final year of Software Engineering at Universidad Nacional of Costa Rica.
 - 💻Passionate about full-stack development, cloud stuff, and networking. I like solving problems with different approaches.
 - 🌱 I’m currently exploring cybersecurity and the SecOps world 
+<br>
 
 <div align="center">
     <a href="https://github.com/Anthonyli24">
