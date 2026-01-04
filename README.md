@@ -1,6 +1,6 @@
 ![Header](./github-header-banner.png)
 
-## **About me**
+## **More about me**
 - 🎓 Software Engineering at Universidad Nacional (Costa Rica).
 - 💻 Passionate about the world of technology, constantly evolving and committed to continuous learning, with the ambition and dedication to enter the DevSecOps field.
 - 🌐 Open to work
