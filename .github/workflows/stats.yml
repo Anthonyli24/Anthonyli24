@@ -1,20 +1,23 @@
-name: Generate Stats
+name: Generate GitHub Stats
 
 on:
   schedule:
-    - cron: "0 */24 * * *"
-  workflow_dispatch:
+    - cron: "0 */24 * * *"   
+  workflow_dispatch:        
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      - name: Generate GitHub Stats
-        uses: anuraghazra/github-readme-stats@master
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Generate Stats
+        uses: vn7n24fzkq/github-profile-summary-cards@release
         with:
-          username: Anthonyli24
-          output: generated
+          USERNAME: Anthonyli24
+          THEME: github_dark
+
       - name: Commit and Push
         run: |
           git config --global user.name 'github-actions'
