@@ -1,6 +1,7 @@
 ![Header](./github-header-banner.png)
 
-<p align="center">
-<a href="mailto:anthonyliperera@gmail.com?Subject=Contact%20from%20Github" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail"/></a>
-<a href="https://www.linkedin.com/in/anthonyliperera/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge" alt="LinkedIn"/> </a>
-</p>
+
+## 📫 Connect with me<p align="center">
+[![Gmail](https://img.shields.io/badge/-gmail-ec493c?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:anthonyliperera@gmail.com?Subject=Contact%20from%20Github)&nbsp;
+[![Linkedin](https://img.shields.io/badge/-linkedin-0a78b5?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/anthonyliperera)
+
