@@ -11,9 +11,7 @@
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=Anthonyli24&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Anthonyli24&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anthonyli24&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anthonyli24/Anthonyli24/output/pacman-contribution-graph-dark.svg">
